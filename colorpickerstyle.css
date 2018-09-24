@@ -1,20 +1,27 @@
 body {
 	background-color: #232323;
+	margin: 0 auto;
 }
 
 h1 {
 	color: white;
 	text-align: center;
+	margin: 0 auto;
+	padding-bottom: 15px;
 }
 
-.header {
+#header {
 	color: rgb(74, 142, 249);
 	text-align: center;
-	margin-bottom: 20px;
+	padding-bottom: 20px;
+	margin-bottom: 50px;
 }
 
 .headerButton {
 	padding-left: 10px;
+	padding-right: 10px;
+	border: white 2px solid;
+	background-color: white;
 }
 
 .square {
